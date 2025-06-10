@@ -6,6 +6,7 @@
  <li>🔊 Discord: anony90mous</li>
  <li>🎮 Steam: Anony90mous</li>
  <li>📸 Instagram: @luiz_othavio_francisconi_alano</li>
+ <li>🦻 Deficiente Auditivo</li>
 </ul>
 <kbd>EXPERIÊNCIAS:</kbd>
 <div style="display: inline_block"><br>
