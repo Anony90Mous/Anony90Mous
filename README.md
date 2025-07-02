@@ -20,7 +20,10 @@
  
 <br>
     
-
+ <div align="center">
+   <a href="https://github.com/Anony90Mous">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anony90Mous&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
  
 ### Redes Sociais abaixo!
  
